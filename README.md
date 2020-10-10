@@ -1,1 +1,1 @@
-# myproject_blog
+# Simple PHP MVC Blog System
